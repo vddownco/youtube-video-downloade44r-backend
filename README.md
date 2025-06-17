@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VideoGrab Backend API
 
 Laravel backend for the VideoGrab video downloader application.
@@ -225,3 +226,6 @@ redis-cli ping
 ## Support
 
 For issues and questions, check the logs and ensure all dependencies are properly installed.
+=======
+# youtube-video-downloader-backend
+>>>>>>> 97a40e8dcd290af64cff3b6e08195f81051678df
